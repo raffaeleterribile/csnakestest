@@ -5,6 +5,14 @@ VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSnakesTest", "CSnakesTest\CSnakesTest.csproj", "{BD50DB7E-4089-4FF3-AD16-72CFA03AF5CF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "Elementi di soluzione", "{42B45737-5B27-4A3A-8E96-8ACCAC3D9F90}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
